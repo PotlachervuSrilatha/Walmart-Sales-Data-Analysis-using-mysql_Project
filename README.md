@@ -1,3 +1,6 @@
+![wmt-logo-original](https://github.com/PotlachervuSrilatha/Walmart-Sales-Data-Analysis-using-mysql/assets/97737090/3c6fa6a2-f82c-46a7-aada-ccc6bd80243d)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Walmart Sales Data Analysis using mysql 
 
 ## About
